@@ -10,8 +10,8 @@ A smart and structured AI-powered evaluation system designed for students and pr
 
 ```sh
 # Open your terminal or command prompt and run:
-git clone https://github.com/your-repo/flash_quiz.git
-cd flash_quiz
+git clone https://github.com/Tweek-byte/FLash_Quiz
+cd Flash_Quiz
 ```
 
 ### Set Up Virtual Environment
